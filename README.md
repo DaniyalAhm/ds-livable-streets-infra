@@ -1,5 +1,8 @@
 # Livable Streets Infrastructure Project
 
+ <!-- DISPLAY=TRUE -->
+
+
 This project, conducted in collaboration with BU Spark and Livable Streets, focuses on the impact of bike lanes on urban areas, specifically investigating the correlation between bike lanes and displacement, as well as their effect on small businesses. The research was mainly conducted in Boston and Chicago and involves surveying residents, collecting and analyzing data from various databases, and visualizing the results through graphs.
 
 ## Objectives
